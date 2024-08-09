@@ -1,2 +1,0 @@
-# MahjongWithNeha
-Mahjong Game Online
